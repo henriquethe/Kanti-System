@@ -350,7 +350,7 @@ O projeto busca transformar conhecimentos teóricos em uma solução prática vo
 
 Projeto desenvolvido em colaboração por:
 
-- **Antonio Rodrigues da Silva Neto** — [GitHub](https://github.com/antoniorodrigues20082006-lab) [Gmail](antoniorodrigues20082006@gmail.com)
+- **Antonio Rodrigues da Silva Neto** — [GitHub](https://github.com/antoniorodrigues20082006-lab) [Gmail](https://mail.google.com/antoniorodrigues20082006@gmail.com)
 - **Luiz Henrique** — [GitHub](https://github.com/henriquethe) [Gmail](lhenriquethe2020@gmail.com)
 - **José Vitor** — [GitHub](https://github.com/Vmotovlogouslq) [Gmail](vmotovlog42@gmail.com)
 
