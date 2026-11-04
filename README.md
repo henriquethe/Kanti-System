@@ -22,36 +22,38 @@
 
 ## 📑 Sumário
 
-- [Sobre o projeto](#-sobre-o-projeto)
-- [Problemas que o sistema busca resolver](#-problemas-que-o-sistema-busca-resolver)
-- [Objetivos](#-objetivos)
-- [Benefícios](#-benefícios-para-a-gestão-escolar)
-- [Funcionalidades](#-funcionalidades)
-- [Demonstração do sistema](#-demonstração-do-sistema)
-- [Usuários e permissões](#-usuários-e-permissões)
-- [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Regras de negócio](#-regras-de-negócio)
-- [Testes realizados](#-testes-realizados)
-- [Banco de dados e segurança](#-banco-de-dados-e-segurança)
-- [Limitações e melhorias planejadas](#-limitações-e-melhorias-planejadas)
-- [Estrutura do projeto](#-estrutura-do-projeto)
-- [Levantamento de requisitos](#-levantamento-de-requisitos)
-- [Status do projeto](#-status-do-projeto)
-- [Finalidade acadêmica](#-finalidade-acadêmica)
-- [Participantes](#-participantes)
+- [Sobre o projeto](#sobre-o-projeto)
+- [Problemas que o sistema busca resolver](#problemas-que-o-sistema-busca-resolver)
+- [Objetivos](#objetivos)
+- [Benefícios para a gestão escolar](#beneficios-para-a-gestao-escolar)
+- [Funcionalidades](#funcionalidades)
+- [Demonstração do sistema](#demonstracao-do-sistema)
+- [Usuários e permissões](#usuarios-e-permissoes)
+- [Tecnologias utilizadas](#tecnologias-utilizadas)
+- [Regras de negócio](#regras-de-negocio)
+- [Testes realizados](#testes-realizados)
+- [Banco de dados e segurança](#banco-de-dados-e-seguranca)
+- [Limitações e melhorias planejadas](#limitacoes-e-melhorias-planejadas)
+- [Estrutura do projeto](#estrutura-do-projeto)
+- [Levantamento de requisitos](#levantamento-de-requisitos)
+- [Status do projeto](#status-do-projeto)
+- [Finalidade acadêmica](#finalidade-academica)
+- [Participantes](#participantes)
 
 ---
 
+<a id="sobre-o-projeto"></a>
 ## 🏪 Sobre o projeto
 
 O **Sistema Cantina** é uma aplicação desenvolvida para auxiliar no gerenciamento de estoque e vendas de cantinas escolares.
 
-A solução surgiu da necessidade de melhorar a organização das atividades diárias, especialmente em ambientes onde o controle manual de mercadorias pode ocasionar erros, desperdícios, falta de pr[...]
+A solução surgiu da necessidade de melhorar a organização das atividades diárias, especialmente em ambientes onde o controle manual de mercadorias pode ocasionar erros, desperdícios, falta de produtividade e dificuldades no acompanhamento das informações.
 
 Por meio de uma interface organizada, o sistema permite centralizar informações importantes sobre produtos, estoque e vendas, oferecendo maior praticidade para o responsável pela cantina.
 
 A proposta é tornar o gerenciamento mais simples, proporcionando informações que auxiliem no acompanhamento das operações e na tomada de decisões.
 
+<a id="problemas-que-o-sistema-busca-resolver"></a>
 ## 🎯 Problemas que o sistema busca resolver
 
 A administração de uma cantina escolar envolve diversas atividades que exigem atenção e organização.
@@ -67,6 +69,7 @@ Entre os principais problemas identificados estão:
 
 O Sistema Cantina busca auxiliar na resolução desses problemas por meio da organização e centralização das informações.
 
+<a id="objetivos"></a>
 ## 🎯 Objetivos
 
 O principal objetivo é desenvolver uma aplicação capaz de facilitar o gerenciamento das operações de uma cantina escolar.
@@ -82,6 +85,7 @@ O principal objetivo é desenvolver uma aplicação capaz de facilitar o gerenci
 - Disponibilizar informações para consultas e relatórios.
 - Reduzir erros associados ao controle manual.
 
+<a id="beneficios-para-a-gestao-escolar"></a>
 ## 💡 Benefícios para a gestão escolar
 
 O uso de uma ferramenta informatizada pode contribuir para melhorar a organização das atividades da cantina.
@@ -96,6 +100,7 @@ O uso de uma ferramenta informatizada pode contribuir para melhorar a organizaç
 
 **Maior transparência:** possibilidade de acompanhar informações relevantes sobre as operações da cantina.
 
+<a id="funcionalidades"></a>
 ## ✨ Funcionalidades
 
 O projeto contempla funcionalidades voltadas ao controle operacional e comercial da cantina.
@@ -114,8 +119,9 @@ O projeto contempla funcionalidades voltadas ao controle operacional e comercial
 | Gerenciamento de usuários | Parcial | Diferenciação de usuários e permissões de acesso. |
 | Backup | Planejada | Criação de cópias de segurança do banco de dados. |
 
-> As classificações foram estabelecidas com base no relatório de análise do projeto. Funcionalidades parciais podem possuir limitações de implementação e não devem ser consideradas integralme[...]
+> As classificações foram estabelecidas com base no relatório de análise do projeto. Funcionalidades parciais podem possuir limitações de implementação e não devem ser consideradas integralmente concluídas.
 
+<a id="demonstracao-do-sistema"></a>
 ## 🖥️ Demonstração do sistema
 
 O Sistema Cantina possui uma interface desenvolvida para organizar as operações e facilitar o acesso às informações.
@@ -144,6 +150,7 @@ O planejamento da interface contou com um protótipo em papel, utilizado para or
 
 <img src="imagens/IMG-20261005-WA0002.jpg" width="70%" alt="protótipo secundário">
 
+<a id="usuarios-e-permissoes"></a>
 ## 👥 Usuários e permissões
 
 O sistema foi planejado para atender aos seguintes perfis:
@@ -167,10 +174,9 @@ Perfil destinado ao acompanhamento e à supervisão das informações da cantina
 - Visualização de informações gerenciais.
 - Verificação de produtos com estoque baixo.
 
-**Limitação identificada:** o relatório de análise apontou falhas no controle de permissões, permitindo que operações de alteração possam ser realizadas mesmo pelo perfil destinado à visuali[...]
+**Limitação identificada:** o relatório de análise apontou falhas no controle de permissões, permitindo que operações de alteração possam ser realizadas mesmo pelo perfil destinado à visualização. A correção desse comportamento está entre as melhorias recomendadas.
 
-A correção desse comportamento está entre as melhorias recomendadas.
-
+<a id="tecnologias-utilizadas"></a>
 ## 🛠️ Tecnologias utilizadas
 
 O desenvolvimento do Sistema Cantina utiliza tecnologias voltadas à programação, construção da interface e armazenamento de informações.
@@ -188,6 +194,7 @@ O desenvolvimento do Sistema Cantina utiliza tecnologias voltadas à programaç�
 
 O relatório também identifica o sistema operacional como parte do ambiente utilizado, sem especificar sua distribuição ou versão.
 
+<a id="regras-de-negocio"></a>
 ## 📐 Regras de negócio
 
 As regras de negócio definem os comportamentos esperados durante as operações do sistema.
@@ -209,6 +216,7 @@ Essas três regras foram confirmadas por inspeção do código ou por testes fun
 - Os lotes podem possuir datas de validade.
 - As movimentações devem permitir consultas posteriores.
 
+<a id="testes-realizados"></a>
 ## 🧪 Testes realizados
 
 Foram realizados testes funcionais para verificar o comportamento da aplicação em situações comuns e situações de erro.
@@ -222,6 +230,7 @@ Foram realizados testes funcionais para verificar o comportamento da aplicação
 
 Os resultados demonstram que os comportamentos avaliados foram executados conforme o esperado nos cenários testados.
 
+<a id="banco-de-dados-e-seguranca"></a>
 ## 🗄️ Banco de dados e segurança
 
 O sistema utiliza o **SQLite** para armazenamento das informações.
@@ -243,6 +252,7 @@ Por esse motivo, a versão analisada não possui um mecanismo automático de có
 
 A implementação desse recurso é considerada uma melhoria importante para aumentar a confiabilidade da aplicação.
 
+<a id="limitacoes-e-melhorias-planejadas"></a>
 ## ⚠️ Limitações e melhorias planejadas
 
 A análise técnica identificou pontos que precisam ser aprimorados antes de uma implantação em ambiente real.
@@ -265,6 +275,7 @@ O relatório recomenda a utilização de decoradores em Python para auxiliar nes
 
 Continuar o desenvolvimento dos módulos de entradas, saídas, vendas, validade, relatórios e gerenciamento de usuários, buscando maior integração e confiabilidade entre as operações.
 
+<a id="estrutura-do-projeto"></a>
 ## 🗂️ Estrutura do projeto
 
 O projeto está organizado em componentes responsáveis pelas principais operações da aplicação.
@@ -279,6 +290,7 @@ O projeto está organizado em componentes responsáveis pelas principais operaç
 
 A estrutura física dos arquivos pode ser consultada diretamente no repositório.
 
+<a id="levantamento-de-requisitos"></a>
 ## 📋 Levantamento de requisitos
 
 O levantamento de requisitos foi elaborado por meio de uma entrevista simulada com inteligência artificial, representando as necessidades de uma cantina escolar.
@@ -294,6 +306,7 @@ O levantamento de requisitos foi elaborado por meio de uma entrevista simulada c
 
 > A entrevista foi simulada com inteligência artificial para fins acadêmicos. As informações não representam uma entrevista real realizada com uma funcionária do estabelecimento.
 
+<a id="status-do-projeto"></a>
 ## 🚧 Status do projeto
 
 O Sistema Cantina encontra-se em desenvolvimento e apresenta resultados positivos nos testes funcionais realizados.
@@ -313,8 +326,9 @@ O Sistema Cantina encontra-se em desenvolvimento e apresenta resultados positivo
 | Testes funcionais registrados | Concluídos |
 | Documentação | Concluída |
 
-> A conclusão de uma etapa de desenvolvimento não significa necessariamente que todos os módulos estejam completos. As classificações funcionais detalhadas estão disponíveis na seção de funci[...]
+> A conclusão de uma etapa de desenvolvimento não significa necessariamente que todos os módulos estejam completos. As classificações funcionais detalhadas estão disponíveis na seção de funcionalidades.
 
+<a id="finalidade-academica"></a>
 ## 🎓 Finalidade acadêmica
 
 O Sistema Cantina é um projeto acadêmico desenvolvido no contexto do curso de **Ciência da Computação**, na Estácio.
@@ -331,6 +345,7 @@ A atividade tem como finalidade aplicar conhecimentos relacionados a:
 
 O projeto busca transformar conhecimentos teóricos em uma solução prática voltada às necessidades de gerenciamento de uma cantina escolar.
 
+<a id="participantes"></a>
 ## 👨‍💻 Participantes
 
 Projeto desenvolvido em colaboração por:
