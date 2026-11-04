@@ -144,7 +144,7 @@ Abaixo serão apresentadas as principais telas da aplicação.
 
 O planejamento da interface contou com um protótipo em papel, utilizado para organizar a disposição das informações e os principais elementos do painel.
 
-<img src="Protótipo no papel.jpeg" width="70%" alt="protótipo inicial">
+<img src="imagens/Protótipo no papel.jpeg" width="70%" alt="protótipo inicial">
 
 ### Protótipo após alterações
 
