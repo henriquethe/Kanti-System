@@ -27,18 +27,18 @@
 - [Objetivos](#-objetivos)
 - [Benefícios](#-benefícios-para-a-gestão-escolar)
 - [Funcionalidades](#-funcionalidades)
-- [Demonstração do sistema](-demonstração-do-sistema)
+- [Demonstração do sistema](#-demonstração-do-sistema)
 - [Usuários e permissões](#-usuários-e-permissões)
-- [Tecnologias utilizadas](-tecnologias-utilizadas)
+- [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Regras de negócio](#-regras-de-negócio)
 - [Testes realizados](#-testes-realizados)
-- [Banco de dados e segurança](-banco-de-dados-e-segurança)
-- [Limitações e melhorias planejadas](-limitações-e-melhorias-planejadas)
-- [Estrutura do projeto](-estrutura-do-projeto)
+- [Banco de dados e segurança](#-banco-de-dados-e-segurança)
+- [Limitações e melhorias planejadas](#-limitações-e-melhorias-planejadas)
+- [Estrutura do projeto](#-estrutura-do-projeto)
 - [Levantamento de requisitos](#-levantamento-de-requisitos)
 - [Status do projeto](#-status-do-projeto)
 - [Finalidade acadêmica](#-finalidade-acadêmica)
-- [Participantes](-participantes)
+- [Participantes](#-participantes)
 
 ---
 
@@ -46,7 +46,7 @@
 
 O **Sistema Cantina** é uma aplicação desenvolvida para auxiliar no gerenciamento de estoque e vendas de cantinas escolares.
 
-A solução surgiu da necessidade de melhorar a organização das atividades diárias, especialmente em ambientes onde o controle manual de mercadorias pode ocasionar erros, desperdícios, falta de produtos e dificuldades no acompanhamento das movimentações.
+A solução surgiu da necessidade de melhorar a organização das atividades diárias, especialmente em ambientes onde o controle manual de mercadorias pode ocasionar erros, desperdícios, falta de pr[...]
 
 Por meio de uma interface organizada, o sistema permite centralizar informações importantes sobre produtos, estoque e vendas, oferecendo maior praticidade para o responsável pela cantina.
 
@@ -114,7 +114,7 @@ O projeto contempla funcionalidades voltadas ao controle operacional e comercial
 | Gerenciamento de usuários | Parcial | Diferenciação de usuários e permissões de acesso. |
 | Backup | Planejada | Criação de cópias de segurança do banco de dados. |
 
-> As classificações foram estabelecidas com base no relatório de análise do projeto. Funcionalidades parciais podem possuir limitações de implementação e não devem ser consideradas integralmente concluídas.
+> As classificações foram estabelecidas com base no relatório de análise do projeto. Funcionalidades parciais podem possuir limitações de implementação e não devem ser consideradas integralme[...]
 
 ## 🖥️ Demonstração do sistema
 
@@ -167,7 +167,7 @@ Perfil destinado ao acompanhamento e à supervisão das informações da cantina
 - Visualização de informações gerenciais.
 - Verificação de produtos com estoque baixo.
 
-**Limitação identificada:** o relatório de análise apontou falhas no controle de permissões, permitindo que operações de alteração possam ser realizadas mesmo pelo perfil destinado à visualização básica da direção.
+**Limitação identificada:** o relatório de análise apontou falhas no controle de permissões, permitindo que operações de alteração possam ser realizadas mesmo pelo perfil destinado à visuali[...]
 
 A correção desse comportamento está entre as melhorias recomendadas.
 
@@ -313,7 +313,7 @@ O Sistema Cantina encontra-se em desenvolvimento e apresenta resultados positivo
 | Testes funcionais registrados | Concluídos |
 | Documentação | Concluída |
 
-> A conclusão de uma etapa de desenvolvimento não significa necessariamente que todos os módulos estejam completos. As classificações funcionais detalhadas estão disponíveis na seção de funcionalidades.
+> A conclusão de uma etapa de desenvolvimento não significa necessariamente que todos os módulos estejam completos. As classificações funcionais detalhadas estão disponíveis na seção de funci[...]
 
 ## 🎓 Finalidade acadêmica
 
