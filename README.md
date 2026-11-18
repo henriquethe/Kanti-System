@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="imagens/logo.jpg" width="170" alt="Logo Kanti">
 </p>
@@ -360,10 +361,10 @@ Projeto desenvolvido em colaboração por:
   <img src="imagens/logo.jpg" width="90" alt="Sistema Cantina">
 </p>
 
-<h3 align="center">🏪 Sistema Cantina</h3>
+<h3 align="center">🏪 Kanti System</h3>
 
 <p align="center">
-  Mais organização, controle e eficiência para a gestão da cantina escolar.
+  Sua cantina, seu estoque.
 </p>
 
 <p align="center">
