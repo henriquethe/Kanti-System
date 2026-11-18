@@ -364,7 +364,7 @@ Projeto desenvolvido em colaboração por:
 <h3 align="center">🏪 Kanti System</h3>
 
 <p align="center">
-  Sua cantina, seu estoque.
+  Sua cantina, seu controle.
 </p>
 
 <p align="center">
